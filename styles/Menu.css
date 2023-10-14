@@ -5,7 +5,7 @@
     overflow:hidden;
     }
 #nav_menu li{ float: left;}
-#nav_menu ul li a {
+#nav_menu ul li {
     text-align:center;
     display:inline-block;
     width: 100px;
