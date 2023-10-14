@@ -1,6 +1,6 @@
 #nav_menu ul{ list-style-type: none;}
 #nav-menu li{ float: left;}
-#nav_menu ul li a{
+#nav_menu ul li {
     text-align:center;
     display:block;
     width:175px;
