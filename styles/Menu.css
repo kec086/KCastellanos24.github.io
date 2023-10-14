@@ -1,6 +1,6 @@
-nav_menu ul{ list-style-type: none;}
-nav_menu li{ float: left;}
-nav_menu ul li {
+#nav_menu ul{ list-style-type: none;}
+#nav_menu li{ float: left;}
+#nav_menu ul li {
     text-align:center;
     display:block;
     width:175px;
@@ -10,4 +10,4 @@ nav_menu ul li {
     color: white;
     font-weight: bold;
     border-right:2px solid white;}
-    nav_menu ul li project B {color:pink;}
+    #nav_menu ul li project B {color:pink;}
