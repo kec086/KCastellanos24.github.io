@@ -5,7 +5,7 @@
     overflow:hidden;
     }
 #nav_menu li{ float: left;}
-#nav_menu li a{
+#nav_menu li a {
     text-align:center;
     display:inline-block;
     width: 100px;
@@ -20,4 +20,7 @@
   }
   .square-list{
     list-style-type:square;
+  }
+  article{
+    margin-left: 30px;
   }
