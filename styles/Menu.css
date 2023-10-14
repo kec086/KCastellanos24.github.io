@@ -15,8 +15,8 @@
     color: black;
     font-weight: bold;
     border-right:2px solid white;}
-    #nav_menuproject B {
-        color: fuchsia;
+    #nav_menu li a.current{
+     color:fuchsia;
     }
   .roman-list{
     list-style-type:upper-roman ;
