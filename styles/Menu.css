@@ -2,7 +2,11 @@
     list-style-type: none;
     margin-left: 40px;
     padding:0;
-    overflow:hidden;}
+    overflow:hidden;
+    }
+    #nav_menu ul a:hover{
+        background-color:fuchsia;
+    }
 #nav_menu li{ float: left;}
 #nav_menu ul li {
     text-align:center;
@@ -19,9 +23,6 @@
   }
   .aside ul{
     list-style-type:square;
-  }
-  li a:hover{
-    background-color:fuchsia;
   }
   .h2 project B{
     text-color:yellow;
