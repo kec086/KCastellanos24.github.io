@@ -15,9 +15,9 @@
     color: black;
     font-weight: bold;
     border-right:2px solid white;}
-  .aside ol li{
+  .roman-list{
     list-style-type:upper-roman ;
   }
-  .aside ul li{
+  .square-list{
     list-style-type:square;
   }
