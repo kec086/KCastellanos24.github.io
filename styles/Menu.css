@@ -4,11 +4,8 @@
     padding:0;
     overflow:hidden;
     }
-    #nav_menu ul a:hover{
-        background-color:fuchsia;
-    }
 #nav_menu li{ float: left;}
-#nav_menu ul li {
+#nav_menu ul li a {
     text-align:center;
     display:inline-block;
     width: 100px;
