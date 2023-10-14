@@ -1,7 +1,8 @@
 #nav_menu ul{ 
     list-style-type: none;
     margin:0;
-    padding:0;}
+    padding:0;
+    overflow:hidden;}
 #nav_menu li{ float: left;}
 #nav_menu ul li {
     text-align:center;
