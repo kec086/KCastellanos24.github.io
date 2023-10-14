@@ -15,12 +15,9 @@
     color: black;
     font-weight: bold;
     border-right:2px solid white;}
-  .aside ol{
+  .aside ol li{
     list-style-type:upper-roman ;
   }
-  .aside ul{
+  .aside ul li{
     list-style-type:square;
-  }
-  .h2 #project B{
-    text-color:yellow;
   }
