@@ -16,7 +16,7 @@ body {
 #nav_menu ul{ 
     list-style-type: none;
     margin-left: 40px;
-    padding:10px;
+    padding:0;
     overflow:hidden;
     }
 #nav_menu li{ float: left;}
