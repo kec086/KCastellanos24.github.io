@@ -54,6 +54,9 @@ body {
         float:left;
         margin-right: 1em;
         margin-bottom: 1em;}
+        article h1 {
+            margin-bottom:20px;
+        }
     aside.fixed {
         width: 20%;
         position: fixed;
