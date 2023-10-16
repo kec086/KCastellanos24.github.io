@@ -20,12 +20,12 @@
     }
     article {
         clear: both;
-        width: 70%;
+        width: 75%;
         float: left;
         column-count: 3;
         column-rule: 2px dotted black;
         column-gap: 2em;
-        margin-left: 2em;
+        margin-left: 4em;
     }
     article h3 {
         column-span: all;
@@ -35,7 +35,7 @@
         margin-right: 1em;
         margin-bottom: 1em;}
     aside.fixed {
-        width: auto;
+        width: 20%;
         position: fixed;
         bottom: 20%;
         right: 0;
