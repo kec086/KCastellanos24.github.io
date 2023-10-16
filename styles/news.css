@@ -43,5 +43,9 @@
         background-color: lightgreen;
         padding: 1em;
     }
+    footer p.copyright {
+        text-align: center;
+        font-size: 80%;
+    }
     article p::first-letter {
         font-style:italic;}
