@@ -37,6 +37,7 @@ body {
         border-bottom: 2px solid black;
     }
     article {
+        padding-top:20px;
         clear: both;
         width: 75%;
         float: left;
