@@ -2,6 +2,9 @@ html {
     background-image:linear-gradient(to left, white 0%,#f89acb 100%);
 }
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     width:auto;
     margin: 15px auto;
     height: 4000px;
