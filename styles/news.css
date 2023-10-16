@@ -33,6 +33,9 @@ body {
     #nav_menu li a.current{
      color:fuchsia;
     }
+    #nav_menu {
+        border-bottom: 2px solid black;
+    }
     article {
         clear: both;
         width: 75%;
@@ -64,6 +67,10 @@ body {
       .square-list{
         list-style-type:square;
       }
+      footer {
+        clear: both;
+        border-top: 2px solid black;
+    }
     footer p.copyright {
         text-align: center;
         font-size: 80%;
