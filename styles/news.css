@@ -58,6 +58,12 @@ body {
         background-color: palevioletred;
         padding: 1em;
     }
+    .roman-list{
+        list-style-type:upper-roman ;
+      }
+      .square-list{
+        list-style-type:square;
+      }
     footer p.copyright {
         text-align: center;
         font-size: 80%;
