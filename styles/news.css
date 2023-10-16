@@ -1,0 +1,20 @@
+#nav_menu ul{ 
+    list-style-type: none;
+    margin-left: 40px;
+    padding:0;
+    overflow:hidden;
+    }
+#nav_menu li{ float: left;}
+#nav_menu li a {
+    text-align:center;
+    display:inline-block;
+    width: 100px;
+    padding:10px 40px;
+    text-decoration: none;
+    background-color:pink;
+    color: black;
+    font-weight: bold;
+    border-right:2px solid white;}
+    #nav_menu li a.current{
+     color:fuchsia;
+    }
