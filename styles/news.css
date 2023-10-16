@@ -7,6 +7,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 100%;
     margin: 15px auto;
+    height: 200px;
     padding: 15px 1.5em;
     border: 1px solid seagreen;
     border-radius: 25px;
