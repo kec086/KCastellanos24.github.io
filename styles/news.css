@@ -23,7 +23,7 @@
         width: 70%;
         float: left;
         column-count: 2;
-        column-rule: 2px dotted maroon;
+        column-rule: 2px dotted black;
         column-gap: 2em;
         margin-left: 2em;
     }
@@ -39,8 +39,8 @@
         position: fixed;
         bottom: 20%;
         right: 0;
-        border: 3px solid darkgreen;
-        background-color: lightgreen;
+        border: 3px solid hotpink;
+        background-color: black;
         padding: 1em;
     }
     footer p.copyright {
