@@ -57,6 +57,9 @@ body {
          h1 {
             margin-bottom:20px;
         }
+        h2 { 
+            margin-top:20px;
+        }
     aside.fixed {
         width: 20%;
         position: fixed;
