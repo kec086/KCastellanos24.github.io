@@ -18,3 +18,12 @@
     #nav_menu li a.current{
      color:fuchsia;
     }
+    aside.fixed {
+        width: auto;
+        position: fixed;
+        bottom: 20%;
+        right: 0;
+        border: 3px solid darkgreen;
+        background-color: lightgreen;
+        padding: 1em;
+    }
