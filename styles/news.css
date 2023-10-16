@@ -39,8 +39,8 @@
         position: fixed;
         bottom: 20%;
         right: 0;
-        border: 3px solid hotpink;
-        background-color: black;
+        border: 3px solid black;
+        background-color: palevioletred;
         padding: 1em;
     }
     footer p.copyright {
