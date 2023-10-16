@@ -54,10 +54,10 @@ body {
         margin-right: 1em;
         margin-bottom: 1em;}
 
-         h1 {
+         article h1 {
             margin-bottom:20px;
         }
-        h2 { 
+        article h2 { 
             margin-top:20px;
         }
     aside.fixed {
